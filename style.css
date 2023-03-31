@@ -32,12 +32,15 @@ body {
 #pieces img {
     width: 79px;
     height: 79px;
-    border: 0.5px solid lightblue;
-
-#checkButton {
-      height: 20px;
-      width: auto;
-      background-color: green;
-      font-size: 20px
-  }
+    border: 0.5px solid lightgreen;
 }
+#checkButton {
+      height: auto;
+      width: auto;
+      background-color: lightgray;
+      font-size: 20px;
+      margin:10px;
+      padding: 3px;
+      border: 1px solid;
+
+  }

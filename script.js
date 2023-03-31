@@ -54,6 +54,7 @@ window.onload = function() {
         tile.addEventListener("dragend", dragEnd);      //after you completed dragDrop
 
         document.getElementById("pieces").append(tile);
+
     }
 }
 
